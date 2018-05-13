@@ -1,5 +1,7 @@
 import numpy as np
 
+# Author : oarriaga/RBF-Network
+
 class RBFN(object):
 
     def __init__(self, input_shape, hidden_shape, sigma = 1.0):
