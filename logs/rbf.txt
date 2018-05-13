@@ -1,0 +1,4 @@
+Model saved in : models/rbf.pkl
+<rbf_model.RBFN object at 0x7f9c03872fd0>
+MSE :  0.00981548805542
+MSE :  0.0100022089889

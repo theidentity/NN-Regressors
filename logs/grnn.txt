@@ -1,0 +1,2 @@
+GRNN(std=0.1, verbose=True, epoch_end_signal=None, shuffle_data=None, show_epoch=None, train_end_signal=None, step=None)
+MSE :  5.52638173869e-06
